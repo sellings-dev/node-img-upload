@@ -1,0 +1,24 @@
+{
+  "name": "img-upload",
+  "version": "1.0.0",
+  "description": "A minimal aplication on how to upload images using node.js and multer",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sellings-dev/node-img-upload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sellings-dev/node-img-upload/issues"
+  },
+  "homepage": "https://github.com/sellings-dev/node-img-upload#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.7"
+  }
+}
